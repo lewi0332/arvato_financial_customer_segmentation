@@ -129,3 +129,12 @@ dmypy.json
 .pyre/
 notes.md
 .vscode/settings.json
+Udacity_CUSTOMERS_052018.parquet
+Udacity_MAILOUT_052018_TEST.csv
+Udacity_AZDIAS_052018.parquet
+Udacity_MAILOUT_052018_TRAIN.csv
+terms_and_conditions/terms.md
+terms_and_conditions/terms.pdf
+terms_and_conditions/terms_completed.md
+
+DIAS Attributes - Values 2017.xlsx
