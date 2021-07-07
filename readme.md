@@ -3,6 +3,12 @@
 
 Capstone project for the [Udacity Data Science NanoDegree Program](https://www.udacity.com/course/data-scientist-nanodegree--nd025)
 
+[Blog Article with Process and Interpretations](https://derrickjameslewis.medium.com/arvato-financial-customer-segmentation-and-propensity-to-respond-16876bd3c37c)
+
+To view the Visualizations in the primary notebook, please use NbViewer:
+
+[Arvato Project Workbook.ipynb](https://nbviewer.jupyter.org/github/lewi0332/arvato_financial_customer_segmentation/blob/master/Arvato%20Project%20Workbook.ipynb)
+
 ---
 
 ## Goal
