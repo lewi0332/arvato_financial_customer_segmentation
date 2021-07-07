@@ -26,7 +26,7 @@ Publishing the data by Arvato Financial Services for this project is not allowed
 
 ## Files 
 
-- [Arvato Project Workbook.ipynb](Arvato\ Project\ Workbook.ipynb) - This is the primary file with EDA, segmentation and model training. 
+- [Arvato Project Workbook.ipynb](https://nbviewer.jupyter.org/github/lewi0332/arvato_financial_customer_segmentation/blob/master/Arvato%20Project%20Workbook.ipynb) - This is the primary file with EDA, segmentation and model training. 
 - recreate the K-Means clustering on a new dataset.
 - [output.html](output.html) - This is a `pandas Profiler` file with information to guide initial EDA. 
 - [customer_segmentation/clusters.pkl](customer_segmentation/clusters.pkl) - This file is a Sklearn Pipeline Object with the trained scaler, PCA and K-Means algorithms to 
